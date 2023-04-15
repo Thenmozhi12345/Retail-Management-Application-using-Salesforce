@@ -1,14 +1,14 @@
 # Retail-Management-Application-using-Salesforce
 
-Team leader: Thenmozhi N
+Team Leader: Thenmozhi N
 https://trailblazer.me/id/thenn54
 
-Team member_1: Kamesh G
+Team Member_1: Kamesh G
 https://trailblazer.me/id/strailhead
 
-Team member_2: Sandhiya G
+Team Member_2: Sandhiya G
 https://trailblazer.me/id/sandg39
 
-Team member_3: Thangarasu M
+Team Member_3: Thangarasu M
 https://trailblazer.me/id/mthangarasu1
 
